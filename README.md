@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🧕🏻 Syauqina 
-- 🎓 Bachelor of Computer Science (Bioinformatics) at Universiti Teknologi Malaysia (UTM)
+- 🎓 Bachelor of Computer Science (Bioinformatics) Honours. at Universiti Teknologi Malaysia (UTM)
 - 💬 Skills:
   - Programming Languages: PHP, Python, C++, HTML, CSS
   - Frameworks & Tools: Flutter, Streamlit, Tableau
